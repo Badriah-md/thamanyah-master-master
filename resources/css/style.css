@@ -59,6 +59,9 @@ h3{
     font-size: 120%;
     text-align: right;
 }
+.big-title{
+    font-size: 200%;
+}
 
 /*-----------------------------------------------------------*/
 .navbar{
@@ -113,7 +116,7 @@ width: 100%;
   position: absolute;
   width: 1140px;
   top: 60%;
-  left: 90%;
+  left: 85%;
   transform: translate(-30%,-50%);
 }
 .image img{
@@ -228,6 +231,7 @@ footer a{
     margin-right: 20px;
     margin-bottom: 30px;
     margin-top:30px;
+    height: 30px;
 }
 footer div:last-child{
     text-align: center;
